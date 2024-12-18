@@ -9,4 +9,4 @@ import './style.css'
   app.canvas.style.position = 'absolute'
   
   document.body.appendChild(app.canvas)
-})()
+})() 
